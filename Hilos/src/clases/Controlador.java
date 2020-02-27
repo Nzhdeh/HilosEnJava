@@ -1,5 +1,3 @@
 package clases;
 
-public class Controlador {
-
-}
+public class Controlador {}
